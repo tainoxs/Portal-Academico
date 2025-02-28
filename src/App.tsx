@@ -10,6 +10,7 @@ import AlunosPage from "./pages/AlunosPage";
 import DisciplinasPage from "./pages/DisciplinasPage";
 import NotasPage from "./pages/NotasPage";
 import AlunoDetalhes from "./pages/AlunoDetalhes";
+import RelacionamentoPage from "./pages/RelacionamentoPage";
 
 const queryClient = new QueryClient();
 
@@ -25,6 +26,7 @@ const App = () => (
           <Route path="/alunos/:matricula" element={<AlunoDetalhes />} />
           <Route path="/disciplinas" element={<DisciplinasPage />} />
           <Route path="/notas" element={<NotasPage />} />
+          <Route path="/relacionamentos" element={<RelacionamentoPage />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>

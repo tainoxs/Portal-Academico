@@ -2,7 +2,7 @@
 import { Link } from "react-router-dom";
 import { 
   Users, BookOpen, GraduationCap, 
-  Home, FileSpreadsheet, PlusCircle 
+  Home, FileSpreadsheet, PlusCircle, TableProperties
 } from "lucide-react";
 
 export function SidebarNav() {
@@ -20,6 +20,7 @@ export function SidebarNav() {
         <NavItem to="/alunos" icon={<Users size={18} />} label="Alunos" />
         <NavItem to="/disciplinas" icon={<BookOpen size={18} />} label="Disciplinas" />
         <NavItem to="/notas" icon={<FileSpreadsheet size={18} />} label="Notas" />
+        <NavItem to="/relacionamentos" icon={<TableProperties size={18} />} label="Tabelas" />
       </nav>
       
       <div className="p-4 border-t border-border">
