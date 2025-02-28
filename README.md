@@ -6,6 +6,11 @@
 ## Descrição
 O **Portal Acadêmico** é um sistema web projetado para facilitar a gestão acadêmica, permitindo que alunos e professores tenham acesso a informações essenciais sobre cursos, disciplinas e atividades acadêmicas.
 
+## Preview
+https://tainoxs.github.io/Portal-Academico/ 
+ou
+https://preview--academic-portal-light.lovable.app/
+
 Este projeto foi originalmente desenvolvido em **Java** para ser utilizado em terminal e, posteriormente, foi transformado em uma aplicação web utilizando **inteligência artificial** para a conversão do código.
 
 ## Funcionalidades
