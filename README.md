@@ -49,8 +49,6 @@ Este projeto foi originalmente desenvolvido em **Java** para ser utilizado em te
    yarn dev
    ```
 
-## Licença
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Contato
 Se tiver alguma dúvida ou sugestão, entre em contato:
