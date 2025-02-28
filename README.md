@@ -9,9 +9,7 @@ Este projeto foi originalmente desenvolvido em **Java** para ser utilizado em te
 
 ## Preview
 https://tainoxs.github.io/Portal-Academico/
-
-//
-
+ou
 https://preview--academic-portal-light.lovable.app/
 
 
