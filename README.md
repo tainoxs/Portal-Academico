@@ -27,6 +27,6 @@ https://preview--academic-portal-light.lovable.app/
 
 ## Contato
 Se tiver alguma dúvida ou sugestão, entre em contato:
-- **Email:** [seuemail@exemplo.com](mailto:tainoxslr@gmail.com)
+- **Email:** [tainoxslr@gmail.com](mailto:tainoxslr@gmail.com)
 - **GitHub:** [tainoxs](https://github.com/tainoxs/)
 
