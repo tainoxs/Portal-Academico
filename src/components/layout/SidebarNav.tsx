@@ -7,7 +7,7 @@ import {
 
 export function SidebarNav() {
   return (
-    <aside className="w-64 bg-sidebar border-r border-border h-screen flex flex-col fixed">
+    <aside className="w-64 bg-sidebar border-r border-border h-screen sticky top-0 flex flex-col">
       <div className="p-6 border-b border-border">
         <h1 className="text-xl font-semibold flex items-center gap-2 text-sidebar-foreground">
           <GraduationCap className="text-accent" size={24} />
