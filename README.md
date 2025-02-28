@@ -1,69 +1,59 @@
-# Welcome to your Lovable project
+# Portal Acadêmico
 
-## Project info
+![GitHub Repo Stars](https://img.shields.io/github/stars/tainoxs/Portal-Academico?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/tainoxs/Portal-Academico?style=social)
 
-**URL**: https://lovable.dev/projects/3c54384c-4100-42a2-a641-179a655e55a1
+## Descrição
+O **Portal Acadêmico** é um sistema web projetado para facilitar a gestão acadêmica, permitindo que alunos e professores tenham acesso a informações essenciais sobre cursos, disciplinas e atividades acadêmicas.
 
-## How can I edit this code?
+Este projeto foi originalmente desenvolvido em **Java** para ser utilizado em terminal e, posteriormente, foi transformado em uma aplicação web utilizando **inteligência artificial** para a conversão do código.
 
-There are several ways of editing your application.
+## Funcionalidades
+- Cadastro e autenticação de usuários (alunos, professores, administradores)
+- Gerenciamento de disciplinas e notas
+- Consulta de horários e calendário acadêmico
+- Notificações e comunicação entre alunos e professores
 
-**Use Lovable**
+## Tecnologias Utilizadas
+- **Base Original:** Java (versão para terminal)
+- **Front-end:** Vite, TypeScript, React
+- **UI:** shadcn-ui, Tailwind CSS
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/3c54384c-4100-42a2-a641-179a655e55a1) and start prompting.
+## Requisitos
+- Node.js 16+
+- Gerenciador de pacotes (npm, yarn ou pnpm)
 
-Changes made via Lovable will be committed automatically to this repo.
+## Instalação
+1. Clone o repositório:
+   ```sh
+   git clone https://github.com/tainoxs/Portal-Academico.git
+   ```
+2. Acesse o diretório do projeto:
+   ```sh
+   cd Portal-Academico
+   ```
+3. Instale as dependências:
+   ```sh
+   npm install
+   ```
+   ou
+   ```sh
+   yarn install
+   ```
+4. Inicie o servidor de desenvolvimento:
+   ```sh
+   npm run dev
+   ```
+   ou
+   ```sh
+   yarn dev
+   ```
 
-**Use your preferred IDE**
+## Licença
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Contato
+Se tiver alguma dúvida ou sugestão, entre em contato:
+- **Email:** [seuemail@exemplo.com](mailto:tainoxslr@gmail.com)
+- **GitHub:** [tainoxs](https://github.com/tainoxs/)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/3c54384c-4100-42a2-a641-179a655e55a1) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
