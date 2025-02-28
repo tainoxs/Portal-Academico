@@ -19,37 +19,6 @@ Este projeto foi originalmente desenvolvido em **Java** para ser utilizado em te
 - **Front-end:** Vite, TypeScript, React
 - **UI:** shadcn-ui, Tailwind CSS
 
-## Requisitos
-- Node.js 16+
-- Gerenciador de pacotes (npm, yarn ou pnpm)
-
-## Instalação
-1. Clone o repositório:
-   ```sh
-   git clone https://github.com/tainoxs/Portal-Academico.git
-   ```
-2. Acesse o diretório do projeto:
-   ```sh
-   cd Portal-Academico
-   ```
-3. Instale as dependências:
-   ```sh
-   npm install
-   ```
-   ou
-   ```sh
-   yarn install
-   ```
-4. Inicie o servidor de desenvolvimento:
-   ```sh
-   npm run dev
-   ```
-   ou
-   ```sh
-   yarn dev
-   ```
-
-
 ## Contato
 Se tiver alguma dúvida ou sugestão, entre em contato:
 - **Email:** [seuemail@exemplo.com](mailto:tainoxslr@gmail.com)
